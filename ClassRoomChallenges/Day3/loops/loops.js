@@ -64,9 +64,9 @@ let alphabet = [
     "y",
     "z",
   ];
-  for(let i=0; i < "alphabet.length"; i = i+1){
-  console.log(alphabet[1]);
-  }
+ // for(let i=0; i < "alphabet.length"; i = i+1){
+ /// console.log(alphabet[1]);
+  //}
   
 
   for (a in alphabet){

@@ -1,5 +1,5 @@
 //forInLoop
-//in does not require that the thing you lop through be numbered
+//in does not require that the thing you loop through be numbered
 let teach =  "mIke";
 let capName;
 
@@ -31,3 +31,7 @@ for (cat of catArray){
 //"for in" grabs the number of the thing.
 
 
+//count to ten
+for( let i = 0; i<= 10; i++){
+    console.log(i);
+}

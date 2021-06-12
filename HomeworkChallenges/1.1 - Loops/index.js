@@ -11,3 +11,23 @@
 //       'the number is even'
 //       - if the number is odd, console.log the number + 
 //       'the number is odd'
+
+
+function callback(num){
+    return num +1;
+      // Use this area to solve the challenge!
+  }
+  
+  
+  // Test your callback function with the loop here!
+  console.log(callback(3));
+
+
+  for( let i = 0; i<= 10; i++){
+    console.log(i);
+}
+function oddOrEven(){
+        if(i % 2 === 0)
+            return "even";
+        return "odd";
+    }
