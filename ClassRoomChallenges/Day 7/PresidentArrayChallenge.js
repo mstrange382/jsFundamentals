@@ -57,6 +57,8 @@ const presidents = [
     let filterPresidents = presidents.filter(
         (presidents) => presidents == undefined
     )
+
+    
     
 
 
